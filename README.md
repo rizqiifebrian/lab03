@@ -1,4 +1,4 @@
-# labpy03
+# lab03
 Nama : Rizqi FEbrian arrahman <p>
 Nim : 312410544 <p>
 Kelas : TI.24.A.5 <p>
@@ -27,7 +27,7 @@ Mata kuliah : Bahasa pemrograman <p>
 ![gambar1](screenshot/ft5.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft6.png)
+![gambar1](https://github.com/rizqiifebrian/lab03/blob/main/hasil1.png?raw=true)
 
 ## `Latihan2: Laba`
 ### Alur Algoritma Latihan2 :
