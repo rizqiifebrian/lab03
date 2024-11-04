@@ -57,9 +57,6 @@ ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft8.png)
 
 ## `Latihan3: Mesin atm`
-### Flowchart
-![gambar1](screenshot/ft1.png)
-![gambar1](screenshot/ft2.png)
 
 ### Alur Algoritma Latihan3 :
  1. Mulai Program:
