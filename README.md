@@ -51,10 +51,10 @@ ini hasil eksekusi program python diatas
     - Program selesai.
       
 ### Program python
-![gambar1](screenshot/ft7.png)
+![gambar1](https://github.com/rizqiifebrian/lab03/blob/main/latihan2.png?raw=true)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft8.png)
+![gambar1](https://github.com/rizqiifebrian/lab03/blob/main/hasil2.png?raw=true)
 
 ## `Latihan3: Mesin atm`
 
@@ -85,8 +85,8 @@ ini hasil eksekusi program python diatas
 
 ### Program python
 seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadikan sebuah program python
-![gambar1](screenshot/ft3.png)
+![gambar1](https://github.com/rizqiifebrian/lab03/blob/main/latihan3.png?raw=true)
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft4.png)
+![gambar1](https://github.com/rizqiifebrian/lab03/blob/main/hasil%20latihan3.png?raw=true)
